@@ -121,5 +121,4 @@ npm test
 * `/components` - React components such as InvoiceForm, LineItem, InvoiceTable, InvoicePreview
 * `/stories` - Storybook stories for each component
 * `/tests` - Unit tests for components
-* `/utils` - Helper functions for calculations and formatting
 

@@ -16,7 +16,19 @@ A modular and testable invoice generator built with React (or Next.js) and style
 * Comprehensive unit tests for validation and calculations
 
 ---
+## Screenshots
 
+**Invoice Generator - Blank Form**  
+![Invoice Generator](/images/invoicegenerator1.png)
+
+**Invoice Generator - Filled Form**  
+![Invoice Generator Filled](/images/invoicegenerator2.png)
+
+**Invoice Generator - PDF Preview**  
+![Invoice PDF](/images/invoicegenerator3.png)
+
+
+---
 ## Core Components
 
 ### InvoiceForm
